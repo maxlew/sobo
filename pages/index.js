@@ -70,6 +70,22 @@ export default function Home() {
     <div>
       <Head>
         <title>Sophie and Ryans Wedding Registry</title>
+
+        <meta name="title" content="Sophie and Ryan's Wedding Registry" />
+        <meta name="description" content="Sophie and Ryan are getting married! Here's somethings you can buy or put money towards." />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://sobo.vercel.app/" />
+        <meta property="og:title" content="Sophie and Ryan's Wedding Registry" />
+        <meta property="og:description" content="Sophie and Ryan are getting married! Here's somethings you can buy or put money towards." />
+        <meta property="og:image" content="/scream.jpg" />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://sobo.vercel.app/" />
+        <meta property="twitter:title" content="Sophie and Ryan's Wedding Registry" />
+        <meta property="twitter:description" content="Sophie and Ryan are getting married! Here's somethings you can buy or put money towards." />
+        <meta property="twitter:image" content="/scream.jpg" />
+
       </Head>
 
       <main>
