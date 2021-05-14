@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import styled from 'styled-components';
-// import classes from '../styles/background.module.scss';
 
 const Heading = styled.h1`
   margin-top: 2em;
@@ -65,18 +64,6 @@ const DonateButton = styled.a`
     transform: scale(1.2);
   }
 `
-
-// const Background = ({ orbCount = 10 }) => {
-//   const spans = [];
-//   for (let i = 0; i < orbCount; i++) {
-//     spans.push((<span key={i} />))
-//   }
-//   return (
-//     <div className={classes.background}>
-//       {spans}
-//     </div>
-//   )
-// }
 
 export default function Home() {
   return (
