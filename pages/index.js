@@ -70,31 +70,29 @@ export default function Home() {
     <div>
       <Head>
         <title>Sophie and Ryans Wedding Registry</title>
-
         <meta name="title" content="Sophie and Ryan's Wedding Registry" />
-        <meta name="description" content="Sophie and Ryan are getting married! Here's somethings you can buy or put money towards." />
+        <meta name="description" content="Sophie and Ryan are getting married! Here's some things you can buy or put money towards." />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://sobo.vercel.app/" />
         <meta property="og:title" content="Sophie and Ryan's Wedding Registry" />
-        <meta property="og:description" content="Sophie and Ryan are getting married! Here's somethings you can buy or put money towards." />
+        <meta property="og:description" content="Sophie and Ryan are getting married! Here's some things you can buy or put money towards." />
         <meta property="og:image" content="/scream.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://sobo.vercel.app/" />
         <meta property="twitter:title" content="Sophie and Ryan's Wedding Registry" />
-        <meta property="twitter:description" content="Sophie and Ryan are getting married! Here's somethings you can buy or put money towards." />
+        <meta property="twitter:description" content="Sophie and Ryan are getting married! Here's some things you can buy or put money towards." />
         <meta property="twitter:image" content="/scream.jpg" />
-
       </Head>
 
       <main>
         <Heading>
           Sophie and Ryan's<br/> Wedding Registry
         </Heading>
-        <Intro>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in leo sed tellus varius sollicitudin.</Intro>
+        <Intro>Hello! Thanks for visiting our page. Due to popular demand we have made this page for wedding gifts or contributions. Please bear in mind that we truly don’t need very much at all!</Intro>
         <HeroImage src='/hats.jpg' />
-        <Intro>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in leo sed tellus varius sollicitudin.</Intro>
+        <Intro>We have cobbled together some things or experiences we have been eyeing off or have planned if you would like to contribute.</Intro>
         <Gifts>
           <Section>
             <h2>Sound Bar</h2>
