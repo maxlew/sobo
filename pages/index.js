@@ -127,7 +127,7 @@ export default function Home() {
             <P>We have been thinking about an upgrade to our sound set up for our future life as married netflix couch potatoes. And are looking at a Bose set up, naturally.</P>
             <Image src='https://media3.giphy.com/media/Me15sgUoYSCjHCs6wI/giphy.gif?cid=790b761149b8e4ec877657492f6fedfe2cb8cf4a669077c0&rid=giphy.gif&ct=g' />
             <Image src='https://media0.giphy.com/media/efUcLJePY6RkA/giphy.gif?cid=ecf05e47xhah19luk9zcmaxpwsjvw6gw12jrjlc66v9wuxna&rid=giphy.gif&ct=g' />
-            <DonateButton href="https://paypal.me/pools/c/8zsfktBS5c">Give money towards sick sound</DonateButton>
+            <DonateButton href="https://paypal.me/pools/c/8zsfktBS5c">Donate for sick sound</DonateButton>
           </Section>
           <Section>
             <h2>Honeymoon</h2>
