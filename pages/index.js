@@ -156,7 +156,7 @@ export default function Home() {
           </Section>
         </Gifts>
       </main>
-        <div className="background" />
+      <div className="background" />
     </div>
   )
 }
