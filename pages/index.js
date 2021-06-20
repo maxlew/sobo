@@ -112,7 +112,7 @@ export default function Home() {
         <meta property="twitter:image" content="/scream.jpg" />
       </Head>
 
-      <main>
+      <main style={{ maxWidth: 800, margin: '0 auto'}}>
         <Section double noPadding>
           <Heading>
             Sophie and Ryan's<br/> Wedding Registry
@@ -155,8 +155,8 @@ export default function Home() {
             <P>Thanks! Love you & see you June 26th x</P>
           </Section>
         </Gifts>
-        <div className="background" />
       </main>
+        <div className="background" />
     </div>
   )
 }
